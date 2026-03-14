@@ -1,11 +1,11 @@
-# MSCS-631 UDP Ping Client Lab
+# MSCS-631 UDP Pinginer Lab
 
 **Name:** Suresh Ghimire  
 **Course:** MSCS 631 – AAdvanced Computer Networks  
 **Professor** Dax Bradely  
 
 ## Overview
-This project implements a UDP Ping Client in Python for the Advanced Computer Networks lab. The client sends 10 ping messages to the server, waits for responses, measures the round-trip time (RTT), and reports packet timeouts when no response is received within 1 second.
+This project implements a UDP Pinger in Python for the Advanced Computer Networks lab. The client sends 10 ping messages to the server, waits for responses, measures the round-trip time (RTT), and reports packet timeouts when no response is received within 1 second.
 
 The server simulates packet loss, which helps demonstrate the unreliable nature of UDP communication.
 
